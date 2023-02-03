@@ -1,0 +1,12 @@
+@media (max-width:500px){
+    main {
+        border-radius: 0;
+    }
+    main #a{
+        border-radius: 0;
+    }
+    #b-container{
+        border-radius: 0;
+    }
+    
+}
